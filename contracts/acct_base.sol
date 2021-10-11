@@ -1,6 +1,6 @@
 pragma solidity ^0.4.15;
 
-import "mortal.sol";
+import "./mortal.sol";
 
 /** Atomic Cross Chain Transfer Interface
  *

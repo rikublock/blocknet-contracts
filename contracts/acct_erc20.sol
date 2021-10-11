@@ -1,8 +1,8 @@
 pragma solidity ^0.4.15;
 
-import "acct_base.sol";
+import "./acct_base.sol";
 
-contract ACCT_ERC20 id ACCTBase
+contract ACCT_ERC20 is ACCTBase
 {
     event Received(address, uint);
 

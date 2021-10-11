@@ -1,6 +1,6 @@
 pragma solidity ^0.4.15;
 
-import "acct_base.sol";
+import "./acct_base.sol";
 
 contract BlocknetDXv1 is ACCTBase
 {
